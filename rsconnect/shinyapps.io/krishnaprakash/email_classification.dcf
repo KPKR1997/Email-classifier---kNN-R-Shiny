@@ -1,0 +1,12 @@
+name: email_classification
+title: Email_classification
+username: krishnaprakash
+account: krishnaprakash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12404332
+bundleId: 8943046
+url: https://krishnaprakash.shinyapps.io/email_classification/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
